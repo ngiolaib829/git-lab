@@ -1,3 +1,5 @@
+## วิธีใช้
+รัน python calc.py
 def add(a , b):
     return a + b
 
